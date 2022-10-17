@@ -1,5 +1,5 @@
 {
-  "name": "jung123456",
+  "name": "jung123",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,6 +18,5 @@
   "homepage": "https://github.com/yan-jung/hello-world#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  },
-  "devDependencies": {}
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "jung",
+  "name": "jung123456",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/yan-jung/hello-world.git"
   },
-  "author": "",
+  "author": "yanjung",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yan-jung/hello-world/issues"
